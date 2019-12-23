@@ -8,5 +8,5 @@
  */
 
 rootProject.name = 'spring5'
-include 'ioc_di'
+include 'design_mode'
 

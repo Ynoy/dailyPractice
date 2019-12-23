@@ -4,3 +4,6 @@
 *.mvn/
 # Ignore Gradle build output directory
 build
+*/gradlew*/
+*/gradle/
+*/.gradle/
